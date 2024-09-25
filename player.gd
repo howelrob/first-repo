@@ -55,3 +55,6 @@ func start(pos):
 func my_func_robbie():
 	print("Hello, this is Robbie")
 	print("I am causing conflict")
+
+func branch():
+	print("Testing branches")
