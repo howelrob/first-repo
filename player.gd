@@ -54,3 +54,7 @@ func start(pos):
 
 func my_func_member():
 	print("hello world, I am member 2")
+
+func my_func_robbie():
+	print("Hello, this is Robbie")
+	print("I am causing conflict")
