@@ -51,3 +51,6 @@ func start(pos):
 	position = pos
 	show()
 	$CollisionShape2D.disabled = false
+
+func my_func_member():
+	print("hello world, I am member 2")
